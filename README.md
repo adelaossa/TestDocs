@@ -1,6 +1,6 @@
 # SISTEMA DE MANEJO DE TRAMITES
 
-![TestDrawio](diagrams\test.drawio.svg)
+![TestDrawio](diagrams/test.drawio.svg)
 
 * This is the first list item.
 * Here's the second list item.
